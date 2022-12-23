@@ -7,11 +7,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="40" height="40"/> 
 
 # Statistics
-<div>
-<a href="https://github.com/pvgsMechatronics">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvgsMechatronics&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pvgsMechatronics&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=pvgsMechatronics&hide=yacc,makefile,cuda&theme=dracula&layout=compact&langs_count=10&border_radius=10&hide_border=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvgsMechatronics&theme=dracula&show_icons=true&border_radius=10&count_private=true&hide_border=true&include_all_commits=true)
+
 
 
 # Contacts:
